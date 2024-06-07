@@ -149,7 +149,7 @@ Currently, there are 2 components out of the box. If none of them fits your need
 
 ### `NotifierComponents.Notification`
 
-![Demo of Notification component](https://raw.githubusercontent.com/seniv/react-native-notifier/master/notification-component.png)
+![Demo of Notification component](https://github.com/tbasdev57/-app-Notifications--React-Native master/notification-component.png)
 
 Perfect for something like chat messages and notifications like "Someone left a comment". This component is used by default.
 
@@ -254,7 +254,6 @@ Notifier.showNotification({
   Component: CustomComponent,
 });
 ```
-![Demo of custom component](https://raw.githubusercontent.com/seniv/react-native-notifier/master/custom-component.jpg)
 
 ## Using with `react-native-navigation`
 If you are using `react-native-navigation`, this issue might be helpful to use notifier with native-navigation: https://github.com/seniv/react-native-notifier/issues/16
@@ -264,5 +263,3 @@ If you have any solutions or improvements in how to use notifier with native-nav
 ## License
 
 MIT
-#   - a p p - N o t i f i c a t i o n s - - R e a c t - N a t i v e  
- 
